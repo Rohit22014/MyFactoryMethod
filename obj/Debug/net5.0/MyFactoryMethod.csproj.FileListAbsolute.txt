@@ -1,0 +1,31 @@
+/Users/jgkeating/Courses/CS264-2021/CS264 Demos/CS264-W09/MyFactoryMethod/bin/Debug/net5.0/MyFactoryMethod.deps.json
+/Users/jgkeating/Courses/CS264-2021/CS264 Demos/CS264-W09/MyFactoryMethod/bin/Debug/net5.0/MyFactoryMethod.runtimeconfig.json
+/Users/jgkeating/Courses/CS264-2021/CS264 Demos/CS264-W09/MyFactoryMethod/bin/Debug/net5.0/MyFactoryMethod.runtimeconfig.dev.json
+/Users/jgkeating/Courses/CS264-2021/CS264 Demos/CS264-W09/MyFactoryMethod/bin/Debug/net5.0/MyFactoryMethod.dll
+/Users/jgkeating/Courses/CS264-2021/CS264 Demos/CS264-W09/MyFactoryMethod/bin/Debug/net5.0/ref/MyFactoryMethod.dll
+/Users/jgkeating/Courses/CS264-2021/CS264 Demos/CS264-W09/MyFactoryMethod/bin/Debug/net5.0/MyFactoryMethod.pdb
+/Users/jgkeating/Courses/CS264-2021/CS264 Demos/CS264-W09/MyFactoryMethod/obj/Debug/net5.0/MyFactoryMethod.csprojAssemblyReference.cache
+/Users/jgkeating/Courses/CS264-2021/CS264 Demos/CS264-W09/MyFactoryMethod/obj/Debug/net5.0/MyFactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jgkeating/Courses/CS264-2021/CS264 Demos/CS264-W09/MyFactoryMethod/obj/Debug/net5.0/MyFactoryMethod.AssemblyInfoInputs.cache
+/Users/jgkeating/Courses/CS264-2021/CS264 Demos/CS264-W09/MyFactoryMethod/obj/Debug/net5.0/MyFactoryMethod.AssemblyInfo.cs
+/Users/jgkeating/Courses/CS264-2021/CS264 Demos/CS264-W09/MyFactoryMethod/obj/Debug/net5.0/MyFactoryMethod.csproj.CoreCompileInputs.cache
+/Users/jgkeating/Courses/CS264-2021/CS264 Demos/CS264-W09/MyFactoryMethod/obj/Debug/net5.0/MyFactoryMethod.dll
+/Users/jgkeating/Courses/CS264-2021/CS264 Demos/CS264-W09/MyFactoryMethod/obj/Debug/net5.0/ref/MyFactoryMethod.dll
+/Users/jgkeating/Courses/CS264-2021/CS264 Demos/CS264-W09/MyFactoryMethod/obj/Debug/net5.0/MyFactoryMethod.pdb
+/Users/jgkeating/Courses/CS264-2021/CS264 Demos/CS264-W09/MyFactoryMethod/obj/Debug/net5.0/MyFactoryMethod.genruntimeconfig.cache
+C:\Users\rohit\Downloads\CS264-L18-Demos\MyFactoryMethod\bin\Debug\net5.0\MyFactoryMethod.exe
+C:\Users\rohit\Downloads\CS264-L18-Demos\MyFactoryMethod\bin\Debug\net5.0\MyFactoryMethod.deps.json
+C:\Users\rohit\Downloads\CS264-L18-Demos\MyFactoryMethod\bin\Debug\net5.0\MyFactoryMethod.runtimeconfig.json
+C:\Users\rohit\Downloads\CS264-L18-Demos\MyFactoryMethod\bin\Debug\net5.0\MyFactoryMethod.runtimeconfig.dev.json
+C:\Users\rohit\Downloads\CS264-L18-Demos\MyFactoryMethod\bin\Debug\net5.0\MyFactoryMethod.dll
+C:\Users\rohit\Downloads\CS264-L18-Demos\MyFactoryMethod\bin\Debug\net5.0\ref\MyFactoryMethod.dll
+C:\Users\rohit\Downloads\CS264-L18-Demos\MyFactoryMethod\bin\Debug\net5.0\MyFactoryMethod.pdb
+C:\Users\rohit\Downloads\CS264-L18-Demos\MyFactoryMethod\obj\Debug\net5.0\MyFactoryMethod.csprojAssemblyReference.cache
+C:\Users\rohit\Downloads\CS264-L18-Demos\MyFactoryMethod\obj\Debug\net5.0\MyFactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rohit\Downloads\CS264-L18-Demos\MyFactoryMethod\obj\Debug\net5.0\MyFactoryMethod.AssemblyInfoInputs.cache
+C:\Users\rohit\Downloads\CS264-L18-Demos\MyFactoryMethod\obj\Debug\net5.0\MyFactoryMethod.AssemblyInfo.cs
+C:\Users\rohit\Downloads\CS264-L18-Demos\MyFactoryMethod\obj\Debug\net5.0\MyFactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\rohit\Downloads\CS264-L18-Demos\MyFactoryMethod\obj\Debug\net5.0\MyFactoryMethod.dll
+C:\Users\rohit\Downloads\CS264-L18-Demos\MyFactoryMethod\obj\Debug\net5.0\ref\MyFactoryMethod.dll
+C:\Users\rohit\Downloads\CS264-L18-Demos\MyFactoryMethod\obj\Debug\net5.0\MyFactoryMethod.pdb
+C:\Users\rohit\Downloads\CS264-L18-Demos\MyFactoryMethod\obj\Debug\net5.0\MyFactoryMethod.genruntimeconfig.cache
